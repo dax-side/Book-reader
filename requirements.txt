@@ -1,0 +1,3 @@
+wheel
+pyPDF2
+pyttsx3
